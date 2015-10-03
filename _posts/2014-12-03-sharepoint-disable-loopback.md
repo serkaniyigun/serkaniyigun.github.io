@@ -3,7 +3,7 @@ layout: post
 title: Sharepoint Disable Loopbackcheck disable with Powershell
 categories:
 - blog
--sharepoint
+- sharepoint
 ---
 
 
